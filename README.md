@@ -1,0 +1,2 @@
+# DiscordGoddessBot
+WIP Discord Bot
