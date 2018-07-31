@@ -41,4 +41,4 @@ async def on_message(message):
     elif message.content.lower().startswith('!character'):
         await client.send_message(message.channel, 'STR: ' + str(random.randint(4, 18)) + '\nCON: ' + str(random.randint(4,18)) + '\nDEX: ' + str(random.randint(4,18)) + '\nINT: ' + str(random.randint(4,18)) + '\nWIS: ' + str(random.randint(4,18)) + '\nCHA: ' + str(random.randint(4,18)))
 
-client.run('MzI2NDE5NTY2ODkwODQ0MTYy.DCmifA.VDn19q6vu9mTzkL6bv34JUjfbeg')
+client.run('***')
